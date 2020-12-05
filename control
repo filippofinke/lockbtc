@@ -1,0 +1,9 @@
+Package: ch.filippofinke.lockbtc
+Name: LockBtc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Shows the current BTC value in CHF in your lockscreen!
+Maintainer: Filippo Finke
+Author: Filippo Finke
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
